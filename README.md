@@ -1,7 +1,7 @@
 # Hello there 👋, I'm Dmytro! 🦦
 
 **Get in touch:**
-[![Linkedin Badge](https://img.shields.io/badge/-andresodinokun12-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andresodinokun12/)](https://www.linkedin.com/in/andresodinokun12/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Hordiienko-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmitry-gordienko/)](https://www.linkedin.com/in/andresodinokun12/) 
 [![Github Badge](https://img.shields.io/badge/-odinokun-grey?style=flat&logo=github&logoColor=white&link=https://github.com/odinokun/)](https://www.github.com/odinokun/) 
 ![Profile views](https://gpvc.arturio.dev/odinokun)
 
