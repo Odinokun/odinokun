@@ -59,13 +59,9 @@ Here are some ideas to get you started:
 <img align="left" alt="Postman" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-<img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img aling="left" src="https://styled-components.com/logo.png" alt="sass" width="32" />
 
 
 ### Get In Touch! 🤭
-
-<!-- 
 <details>
   <summary>
     GitHub Stats
@@ -82,4 +78,3 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=odinokun&layout=compact" alt="Inpuls GitHub Top Languages"/>
   </a>
 </details>
- -->
