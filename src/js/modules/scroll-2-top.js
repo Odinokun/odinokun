@@ -1,15 +1,18 @@
 module.exports = function () {
 
-  // begin scroll-2-top
-  window.addEventListener('scroll', function() {
-    const btn = document.getElementById('scroll-2-top');
-
-    if (pageYOffset > 1000) {
-      btn.classList.add('active');
-    } else {
-      btn.classList.remove('active');
-    }
+  // begin to-top
+  $(document).ready(function () {
+    let top_show = 500; // В каком положении полосы прокрутки начинать показ кнопки "Наверх"
+    let delay = 1000; // Задержка прокрутки
+    $(window).scroll(function () {
+      if ($(this).scrollTop() > top_show) {
+        $('#up').fadeIn();
+      }
+      else {
+        $('#up').fadeOut();
+      }
+    });
   });
-  // end scroll-2-top
+  // end to-top
 
 };

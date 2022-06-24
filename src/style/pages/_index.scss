@@ -55,8 +55,8 @@
 }
 
 .index__title {
-  font-family: $teko;
   font-size: 10.5vw;
+  font-family: $teko;
   line-height: 1;
   margin-bottom: 0;
   user-select: none;
@@ -65,10 +65,23 @@
   opacity: 0;
   color: $light;
 
+  @include max(1020) {
+    font-size: 12vw;
+  }
+}
+
+.index__title--mobile {
+  display: none;
+  @include max(1020) {
+    display: block;
+  }
+}
+
+.index__title--desktop {
   font-variation-settings: 'wght' 700;
   filter: url(#distortionFilter);
   @include max(1020) {
-    font-size: 12vw;
+    display: none;
   }
 }
 
