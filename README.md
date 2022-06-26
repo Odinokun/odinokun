@@ -4,14 +4,27 @@
     <h3>And I`m front-end developer!</h3>
 </div>
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/dmitry-gordienko/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:odinokun@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://twitter.com/odinokun" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 
+
 <hr>
 <hr>
 <hr>
 <hr>
 <hr>
 <hr>
+
 **Get in touch:**
 <br>
 [![Linkedin Badge](https://img.shields.io/badge/-Hordiienko-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmitry-gordienko/)](https://www.linkedin.com/in/dmitry-gordienko/) 
