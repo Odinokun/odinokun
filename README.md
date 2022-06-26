@@ -1,6 +1,7 @@
 <div id="header" align="center">
     <img src="http://odinokun.com/assets/img/favicon/apple-touch-icon-180x180.jpg" width="100"/>
-    <h1>Hello there, I'm Dmytro and i`m front-end developer!</h1>
+    <h2>Hello there, I'm Dmytro!</h2>
+    <h3>And I`m front-end developer!</h3>
 </div>
 
 
