@@ -1,7 +1,11 @@
 <div id="header" align="center">
     <img src="http://odinokun.com/assets/img/favicon/apple-touch-icon-180x180.jpg" width="100"/>
-    <h1>Hello there, I'm Dmytro!</h1>
-    <h3>And I`m front-end developer!</h3>
+</div>
+
+<div id="header" align="center">
+
+# Hello there, I'm Dmytro!
+### And I`m front-end developer!
 </div>
 
 <div id="badges" align="center">
