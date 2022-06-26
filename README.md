@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="http://odinokun.com/assets/img/favicon/apple-touch-icon-180x180.jpg" width="100"/>
-    <h1>Hello there, I'm Dmytro!</h1>
+    <h1>Hello there, my name Dmytro!</h1>
     <h3>And I`m front-end developer!</h3>
 </div>
 
@@ -62,6 +62,16 @@
 
 ---
 
+### ⚙️ About me
+
+- 🤓 I'm front-end developer
+- 📍 I’m from Ukraine, but now i live in Germany (Nuremberg)
+- 👨‍💻 I have been working with the WEB since 2014
+- 🔭 You can find out more about me on my website <a href="https://www.linkedin.com/in/andresodinokun12/" target="_blank" rel="noopener noreferrer">odinokun.com</a>
+- 📚 Here you can download my CV <a href="http://odinokun.com/assets/text/front-end_developer_Dmytro_Hordiienko.pdf" target="_blank" rel="noopener noreferrer">click me 💬</a>
+
+---
+
 ### ⚙️ GitHub Analytics
 <table>
   <tr>
@@ -80,22 +90,4 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🤓 I'm Front-end developer
-- 💬 Let's talk about Software Architecture, Java, Security, Development Patterns.
-- 🏆 I'm an avid improver. Continuously learning how to make the world better.
-- Originally from **Medellin** 🇨🇴, now based in **Amsterdam** 🇳🇱
-- 📫 Let's get social: <a href="https://www.linkedin.com/in/andresodinokun12/"> <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
-- 📍 I’m From Belarus (Minsk)
-- 💻 7+ Years Experience in Front-end Development
-- 👨‍💻 Front-end Enthusiast & Volunteer
-- 📚 Mentor & Lecturer in Rolling Scopes School
-- 🎙YouTube Lecturer
 -->
