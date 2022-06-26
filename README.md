@@ -1,10 +1,40 @@
-# Hello there 👋, I'm Dmytro! 🦦
+<div id="header" align="center">
+    <img src="http://odinokun.com/assets/img/favicon/apple-touch-icon-180x180.jpg" width="100"/>
+    <h1>Hello there, I'm Dmytro and i`m front-end developer!</h1>
+</div>
 
+
+
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
 **Get in touch:**
+<br>
 [![Linkedin Badge](https://img.shields.io/badge/-Hordiienko-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmitry-gordienko/)](https://www.linkedin.com/in/dmitry-gordienko/) 
 [![Github Badge](https://img.shields.io/badge/-odinokun-grey?style=flat&logo=github&logoColor=white&link=https://github.com/odinokun/)](https://www.github.com/odinokun/) 
 [![Gmail Badge](https://img.shields.io/badge/-odinokun-white?style=flat-square&logo=Gmail&logoColor=red&link=mailto:odinokun@gmail.com)](mailto:odinokun@gmail.com)
 ![Profile views](https://gpvc.arturio.dev/odinokun)
+
+
+### 🤝 Connect with me:
+
+[//]: # ([<img alt="webDev | YouTube" src="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube])
+[//]: # ([<img alt="webDev | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram])
+[<img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img alt="webDev | Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img alt="webDev | Twitter" src="https://img.shields.io/badge/gmail-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+
+[//]: # ([<img alt="webDev | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" />][vk])
+
+
+
+
+
+
+
 
 
 [//]: # (![universe-frame]&#40;https://i.giphy.com/media/J39gurpvL7SHpnTTJB/giphy.webp "Universe Big Bang"&#41;)
@@ -109,14 +139,6 @@ Here are some ideas to get you started:
 - 📚 Mentor & Lecturer in Rolling Scopes School
 - 🎙YouTube Lecturer
 
-### 🤝 Connect with me:
-
-[<img alt="webDev | YouTube" src="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
-[<img alt="webDev | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-[<img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img alt="webDev | Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img alt="webDev | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" />][vk]
-
 ### 🍻 Support the channel:
 
 [<img alt="webDev | YouTube Sponsor" src="https://img.shields.io/badge/Become a sponsor-F70000.svg?&style=for-the-badge&logo=youtube&logoColor=fff" />][sponsor]
@@ -145,7 +167,7 @@ Here are some ideas to get you started:
 
 ### 🛠 Tools:
 
-<img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
+    <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="gitlab" src="https://img.shields.io/badge/gitlab-380D75.svg?&style=for-the-badge&logo=gitlab&logoColor=fff" />&nbsp;
 <img alt="jira" src="https://img.shields.io/badge/jira-2D80FF.svg?&style=for-the-badge&logo=jira&logoColor=fff" />&nbsp;
@@ -179,3 +201,9 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/YauhenKavalchuk
 [sponsor]: https://www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg/join
 [patron]: https://www.patreon.com/YauhenKavalchuk
+
+
+[//]: # (my variables)
+[odin-linkedin]: https://linkedin.com/in/YauhenKavalchuk
+[odin-github]: https://linkedin.com/in/YauhenKavalchuk
+[odin-website]: https://linkedin.com/in/YauhenKavalchuk
