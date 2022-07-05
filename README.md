@@ -1,10 +1,6 @@
 <div id="header" align="center">
-    <img src="http://odinokun.com/assets/img/favicon/apple-touch-icon-180x180.jpg" width="80"/>
-    <h1>Hi there, my name Dmytro! 👋</h1>
+    <h1>Hi there, my name Dmytro!</h1>
     <h3>And I'm front-end developer!</h3>
-</div>
-
-<div id="badges" align="center">
     <a href="https://www.linkedin.com/in/dmitry-gordienko/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
