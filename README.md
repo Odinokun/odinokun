@@ -1,16 +1,16 @@
 <div id="header" align="center">
     <h1>Hi there, my name Dmytro!</h1>
     <h3>And I'm front-end developer!</h3>
-    <a href="https://www.linkedin.com/in/dmitry-gordienko/" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.linkedin.com/in/dmitry-gordienko/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="mailto:odinokun@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-    <a href="https://odinokun.com" target="_blank" rel="noopener noreferrer">
+    <a href="https://odinokun.com">
         <img src="https://img.shields.io/badge/odinokun.com-121212?style=for-the-badge&logo=web-site&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <!-- <a href="https://twitter.com/odinokun" target="_blank" rel="noopener noreferrer">
+    <!-- <a href="https://twitter.com/odinokun">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>-->
 </div>
@@ -63,8 +63,8 @@
 - 🤓 I'm front-end developer
 - 📍 I’m from Ukraine, but now i live in Germany (Nuremberg)
 - 💻 I have been working with the WEB since 2014
-- 🔭 You can find out more about me on my website <a href="https://www.linkedin.com/in/andresodinokun12/" target="_blank" rel="noopener noreferrer">odinokun.com</a>
-- 📚 Here you can download my CV <a href="http://odinokun.com/assets/text/front-end_developer_Dmytro_Hordiienko.pdf" target="_blank" rel="noopener noreferrer">click me 💬</a>
+- 🔭 You can find out more about me on my website <a href="http://odinokun.com/">odinokun.com</a>
+- 📚 Here you can download my CV <a href="http://odinokun.com/assets/text/front-end_developer_Dmytro_Hordiienko.pdf">click me 💬</a>
 
 ---
 
