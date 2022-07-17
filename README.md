@@ -1,6 +1,6 @@
 <div id="header" align="center">
-    <h1>Hi there, my name Dmytro!</h1>
-    <h3>And I'm front-end developer!</h3>
+    <h2>Hi there, my name Dmytro!</h2>
+    <h3><i>And I'm front-end developer!</i>i></h3>
     <a href="https://www.linkedin.com/in/dmitry-gordienko/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -15,9 +15,9 @@
     </a>-->
 </div>
 
-<div id="badges" align="center">
+<!-- <div id="badges" align="center">
     <img src="https://komarev.com/ghpvc/?username=odinokun&style=flat-square&color=blue" alt="counter"/>
-</div>
+</div>-->
 
 ---
 
