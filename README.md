@@ -7,7 +7,7 @@
     <a href="mailto:odinokun@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-    <a href="https://odinokun.com">
+    <a href="http://odinokun.com">
         <img src="https://img.shields.io/badge/odinokun.com-121212?style=for-the-badge&logo=web-site&logoColor=white" alt="Twitter Badge"/>
     </a>
     <!-- <a href="https://twitter.com/odinokun">
