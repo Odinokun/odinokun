@@ -18,7 +18,7 @@
 <div id="badges" align="center">
     <img src="https://komarev.com/ghpvc/?username=odinokun&style=flat-square&color=blue" alt="counter"/>
 </div>
----
+
 
 ### 💻 Tech Stack:
 <img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=121212" />&nbsp;
