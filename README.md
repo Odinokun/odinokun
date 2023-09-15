@@ -15,10 +15,9 @@
     </a>-->
 </div>
 
-<!-- <div id="badges" align="center">
+<div id="badges" align="center">
     <img src="https://komarev.com/ghpvc/?username=odinokun&style=flat-square&color=blue" alt="counter"/>
-</div>-->
-
+</div>
 ---
 
 ### 💻 Tech Stack:
