@@ -56,10 +56,10 @@
 ### 👨🏻‍💻 About me
 
 - 🤓 I'm front-end developer
-- 📍 I’m from Ukraine, but now i live in Germany (Nuremberg)
+- 📍 My location - Canada
 - 💻 I have been working with the WEB since 2014
 - 🔭 You can find out more about me on my website <a href="http://odinokun.com/">odinokun.com</a>
-- 📚 Here you can download my CV <a href="http://odinokun.com/assets/text/front-end_developer_Dmytro_Hordiienko.pdf">click me 💬</a>
+- 📚 Here you can download my CV <a href="https://odinokun.com/assets/text/front-end_developer_Dima_Hordiienko.pdf">click me 💬</a>
 
 ---
 
