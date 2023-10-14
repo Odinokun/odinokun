@@ -1,6 +1,5 @@
 ﻿<div id="header" align="center">
-    <h1>Hi there, my name Dima!</h1>
-    <h3><i>And I'm front-end developer!</i></h3>
+    <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F0A400&center=true&width=435&lines=Hi!+My+name+is+Dima; and+I'm+a+front-end+developer!" alt="Typing SVG" /></a>
     <a href="https://www.linkedin.com/in/dmitry-gordienko/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
