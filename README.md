@@ -1,17 +1,16 @@
 ﻿<div id="header" align="center">
+ <div align=center>
     <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F0A400&center=true&width=435&lines=Hi!+My+name+is+Dima; and+I'm+a+front-end+developer!" alt="Typing SVG" /></a>
-    <a href="https://www.linkedin.com/in/dmitry-gordienko/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="mailto:odinokun@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-    <a href="http://odinokun.com">
-        <img src="https://img.shields.io/badge/odinokun.com-121212?style=for-the-badge&logo=web-site&logoColor=white" alt="Twitter Badge"/>
-    </a>
-    <!-- <a href="https://twitter.com/odinokun">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>-->
+ </div>
+ <a href="https://www.linkedin.com/in/dmitry-gordienko/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="mailto:odinokun@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
+<a href="http://odinokun.com">
+    <img src="https://img.shields.io/badge/odinokun.com-121212?style=for-the-badge&logo=web-site&logoColor=white" alt="Twitter Badge"/>
+</a>
 </div>
 
 
