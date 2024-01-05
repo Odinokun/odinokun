@@ -7,7 +7,7 @@
  <a href="https://www.linkedin.com/in/dmitry-gordienko/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
- <a href="mailto:odinokun@gmail.com">
+ <a href="mailto:dima.hordiienko.ca@gmail.com">
      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
  </a>
  <a href="http://odinokun.com">
@@ -59,7 +59,7 @@
 - 📍 My location - Canada
 - 💻 I have been working with the WEB since 2014
 - 🔭 You can find out more about me on my website <a href="http://odinokun.com/">odinokun.com</a>
-- 📚 Here you can download my CV <a href="https://odinokun.com/assets/text/front-end_developer_Dima_Hordiienko.pdf">click me 💬</a>
+- 📚 Here you can download my CV <a href="https://odinokun.com/Dima_Hordiienko_front_end_developer.pdf">click me 💬</a>
 
 ---
 
