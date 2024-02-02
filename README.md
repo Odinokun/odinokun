@@ -70,7 +70,7 @@
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=odinokun&theme=algolia" alt="webDev's Github stats" />
     </td>
    <td>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Odinokun)](https://github.com/Odinokun/github-readme-stats)
+    <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Odinokun&layout=compact&&langs_count=8"/>
    </td>
   </tr>
 </table>
