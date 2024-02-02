@@ -64,27 +64,4 @@
 ---
 
 ### ⚙️ GitHub Analytics
-<table>
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=odinokun&theme=algolia" alt="webDev's Github stats" />
-    </td>
-   <!--
-   <td>
-    <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Odinokun&layout=compact&&langs_count=6"/>
-   </td>
-   -->
-  </tr>
-</table>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Odinokun=anuraghazra&show_icons=true&theme=radical)
-
-<!--
-[![odinokun profile views](https://u8views.com/api/v1/github/profiles/10399559/views/day-week-month-total-count.svg)](https://u8views.com/github/Odinokun)
--->
-
-<!--
-**odinokun/odinokun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=odinokun&theme=algolia" alt="webDev's Github stats" />
