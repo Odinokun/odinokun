@@ -76,6 +76,7 @@
    -->
   </tr>
 </table>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Odinokun=anuraghazra&show_icons=true&theme=radical)
 
 <!--
 [![odinokun profile views](https://u8views.com/api/v1/github/profiles/10399559/views/day-week-month-total-count.svg)](https://u8views.com/github/Odinokun)
