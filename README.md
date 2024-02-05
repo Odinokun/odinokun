@@ -64,6 +64,6 @@
 ---
 
 ### ⚙️ GitHub Analytics
-<div align="center" background="#357">
+<div align="center" backgroundColor="#357">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=odinokun&theme=algolia" alt="webDev's Github stats" />
 </div>
