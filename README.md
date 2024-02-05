@@ -65,5 +65,6 @@
 
 ### ⚙️ GitHub Analytics
 <div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=odinokun&theme=algolia" alt="webDev's Github stats" />
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=odinokun&theme=algolia" alt="webDev's Github stats" /> -->
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=odinokun&theme=onedark&date_format=j%20M%5B%20Y%5D&card_width=600)](https://git.io/streak-stats)
 </div>
