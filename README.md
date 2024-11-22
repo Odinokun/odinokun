@@ -48,6 +48,7 @@
 <img alt="jira" src="https://img.shields.io/badge/jira-2D80FF.svg?&style=for-the-badge&logo=jira&logoColor=fff" />&nbsp;
 <img alt="figma" src="https://img.shields.io/badge/figma-F76E5F.svg?&style=for-the-badge&logo=figma&logoColor=fff" />&nbsp;
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
+<img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 
 ---
 
