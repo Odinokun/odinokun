@@ -59,8 +59,8 @@
 - 🔭 You can find out more about me on my website <a href="http://odinokun.com/">odinokun.com</a>
 - 📚 Here you can download my CV <a href="https://odinokun.com/front_end_developer_Dmytro_Hordiienko.pdf" target="_blank">click me 💬</a>
 
-<a href="https://www.codewars.com/users/odinokun" target="_blank" style="display: block; width: 200px;" >
- <img alt="codewars" src="https://www.codewars.com/users/odinokun/badges/large" style="width: 200px; pointer-events: none;" />
+<a href="https://www.codewars.com/users/odinokun" target="_blank"  >
+ <img alt="codewars" src="https://www.codewars.com/users/odinokun/badges/large" style="width: 300px; pointer-events: none;" />
 </a>
 
 ---
