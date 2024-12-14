@@ -60,7 +60,7 @@
 - 📚 Here you can download my CV <a href="https://odinokun.com/front_end_developer_Dmytro_Hordiienko.pdf" target="_blank">click me 💬</a>
 
 <a href="https://www.codewars.com/users/odinokun" target="_blank" style="display: block; width: 200px;" >
- <img alt="codewars" src="https://www.codewars.com/users/odinokun/badges/large" style="width: 100%; pointer-events: none;" />
+ <img alt="codewars" src="https://www.codewars.com/users/odinokun/badges/large" style="width: 200px; pointer-events: none;" />
 </a>
 
 ---
