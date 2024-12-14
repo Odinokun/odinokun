@@ -58,9 +58,7 @@
 - 💻 I have been working with the WEB since 2014
 - 🔭 You can find out more about me on my website <a href="http://odinokun.com/">odinokun.com</a>
 - 📚 Here you can download my CV <a href="https://odinokun.com/Dima_Hordiienko_front_end_developer.pdf">click me 💬</a>
-<img alt="codewars" src="https://www.codewars.com/users/odinokun/badges/large" />
 
-https://www.codewars.com/users/odinokun/badges/large
 
 ---
 
