@@ -62,10 +62,3 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.codewars.com/users/odinokun">
  <img alt="codewars" src="https://www.codewars.com/users/odinokun/badges/large" style="width: 350px; pointer-events: none;" />
 </a>
-
----
-
-### ⚙️ GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=odinokun&theme=onedark&date_format=j%20M%5B%20Y%5D&card_width=600" alt="GitHub Streak" />
-</div>
