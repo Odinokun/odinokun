@@ -57,7 +57,7 @@
 - 📍 My location - Canada
 - 💻 I have been working with the WEB since 2014
 - 🔭 You can find out more about me on my website <a target="_blank" rel="noopener noreferrer nofollow" href="http://odinokun.com/">odinokun.com</a>
-- 📚 Here you can download my CV <a target="_blank" rel="noopener noreferrer nofollow" href="https://odinokun.com/front_end_developer_Dmytro_Hordiienko.pdf">click me 💬</a>
+- 📚 Here you can download my CV <a target="_blank" rel="noopener noreferrer nofollow" href="https://odinokun.com/front-end_developer_Dmytro_Hordiienko.pdf">click me 💬</a>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.codewars.com/users/odinokun">
  <img alt="codewars" src="https://www.codewars.com/users/odinokun/badges/large" style="width: 350px; pointer-events: none;" />
