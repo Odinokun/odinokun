@@ -4,7 +4,7 @@
    <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F0A400&center=true&width=435&lines=Hi!+My+name+is+Dima; and+I'm+a+front-end+developer!" alt="Typing SVG" />
   </a>
  </div>
- <a href="https://www.linkedin.com/in/dmitry-gordienko/">
+ <a href="https://www.linkedin.com/in/dima-hordiienko/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
  <a href="mailto:dima.hordiienko.ca@gmail.com">
