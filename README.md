@@ -57,7 +57,7 @@
 - 📍 Based in Germany
 - 💻 I’ve been working with the web since 2014
 - 🔭 Learn more about me on my website: <a target="_blank" rel="noopener noreferrer nofollow" href="http://odinokun.com/">odinokun.com</a>
-- 📚 Download my CV here: <a target="_blank" rel="noopener noreferrer nofollow" href="https://odinokun.com/front-end_developer_Dmytro_Hordiienko.pdf">click me 💬</a>
+- 📚 Download my CV here: <a target="_blank" rel="noopener noreferrer nofollow" href="https://odinokun.com/front_end_developer_Dmytro_Hordiienko.pdf">click me 💬</a>
 
 ---
 
