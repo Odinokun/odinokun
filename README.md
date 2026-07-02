@@ -1,7 +1,7 @@
 ﻿<div id="header" align="center">
  <div align=center>
   <a href="https://git.io/typing-svg">
-   <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F0A400&center=true&width=435&lines=Hi+there!; My+name+is+Dima; and+I'm+a+front-end+developer!" alt="Typing SVG" />
+   <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F0A400&center=true&width=435&lines=Hi+there!; My+name+is+Dima; I'm+a+front-end+developer!" alt="Typing SVG" />
   </a>
  </div>
  <a href="https://www.linkedin.com/in/dima-hordiienko/">
