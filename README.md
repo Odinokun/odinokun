@@ -25,6 +25,7 @@
 <img alt="pug" src="https://img.shields.io/badge/pug-A86454.svg?&style=for-the-badge&logo=pug&logoColor=fff" />&nbsp;
 <img alt="css3" src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff" />&nbsp;
 <img alt="scss" src="https://img.shields.io/badge/scss-CF649A.svg?&style=for-the-badge&logo=sass&logoColor=fff" />&nbsp;
+
 [//]: # (<img alt="juery" src="https://img.shields.io/badge/jquery-333333.svg?&style=for-the-badge&logo=jquery&logoColor=7ACEF4" />&nbsp;)
 
 ---
