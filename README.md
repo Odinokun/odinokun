@@ -18,6 +18,7 @@
 
 ### 💻 Tech Stack:
 <img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=121212" />&nbsp;
+<img alt="redux" src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff" />&nbsp;
 <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
 <img alt="typescript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
 <img alt="html5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
@@ -26,29 +27,11 @@
 <img alt="scss" src="https://img.shields.io/badge/scss-CF649A.svg?&style=for-the-badge&logo=sass&logoColor=fff" />&nbsp;
 <img alt="juery" src="https://img.shields.io/badge/jquery-333333.svg?&style=for-the-badge&logo=jquery&logoColor=7ACEF4" />&nbsp;
 
-[//]: # (<img alt="redux" src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff" />&nbsp;)
-[//]: # (<img alt="redux-saga" src="https://img.shields.io/badge/redux saga-939393.svg?&style=for-the-badge&logo=redux-saga&logoColor=fff" />&nbsp;)
-[//]: # (<img alt="graphql" src="https://img.shields.io/badge/graphql-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=fff" />&nbsp;)
-[//]: # (<img alt="jest" src="https://img.shields.io/badge/jest-C21325.svg?&style=for-the-badge&logo=jest&logoColor=fff" />&nbsp;)
-[//]: # (<img alt="testing-library" src="https://img.shields.io/badge/rtl-D62B2A.svg?&style=for-the-badge&logo=testing-library&logoColor=fff" />&nbsp;)
-[//]: # (<img alt="node.js" src="https://img.shields.io/badge/node.js-90C53F.svg?&style=for-the-badge&logo=node.js&logoColor=fff" />&nbsp;)
-[//]: # (<img alt="mongodb" src="https://img.shields.io/badge/mongodb-26A944.svg?&style=for-the-badge&logo=mongodb&logoColor=fff" />&nbsp;)
-[//]: # (<img alt="next.js" src="https://img.shields.io/badge/next.js-000.svg?&style=for-the-badge&logo=next.js&logoColor=fff" />&nbsp;)
-[//]: # (<img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;)
-[//]: # (<img alt="markdown" src="https://img.shields.io/badge/markdown-000.svg?&style=for-the-badge&logo=markdown&logoColor=fff" />&nbsp;)
-
 ---
 
 ### 👨🏻‍💻 About me
 
 - 🤓 I'm a front-end developer
-- 📍 Based in Germany
 - 💻 I’ve been working with the web since 2014
 - 🔭 Learn more about me on my website: <a href="https://odinokun.com/">odinokun.com</a>
 - 📚 Download my CV here: <a href="https://odinokun.com/front_end_developer_Dmytro_Hordiienko.pdf">click me 💬</a>
-
----
-
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.codewars.com/users/odinokun">
- <img alt="codewars" src="https://www.codewars.com/users/odinokun/badges/large" style="width: 350px; pointer-events: none;" />
-</a>
