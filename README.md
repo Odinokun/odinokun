@@ -39,18 +39,6 @@
 
 ---
 
-### 🛠 Tools:
-<img alt="webpack" src="https://img.shields.io/badge/webpack-333333.svg?&style=for-the-badge&logo=webpack&logoColor=7ACEF4" />&nbsp;
-<img alt="gulp" src="https://img.shields.io/badge/gulp-cc4846.svg?&style=for-the-badge&logo=gulp&logoColor=fff" />&nbsp;
-<img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
-<img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
-<img alt="gitlab" src="https://img.shields.io/badge/gitlab-380D75.svg?&style=for-the-badge&logo=gitlab&logoColor=fff" />&nbsp;
-<img alt="jira" src="https://img.shields.io/badge/jira-2D80FF.svg?&style=for-the-badge&logo=jira&logoColor=fff" />&nbsp;
-<img alt="figma" src="https://img.shields.io/badge/figma-F76E5F.svg?&style=for-the-badge&logo=figma&logoColor=fff" />&nbsp;
-<img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
-
----
-
 ### 👨🏻‍💻 About me
 
 - 🤓 I'm a front-end developer
