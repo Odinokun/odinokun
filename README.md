@@ -20,7 +20,7 @@
 </div>
 
 
-### 💻 Tech Stack:
+### ⚙️ Tech Stack:
 <img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=121212" />&nbsp;
 <img alt="redux" src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff" />&nbsp;
 <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
@@ -36,7 +36,7 @@
 
 ### 👨🏻‍💻 About me
 
-- 🤓 I'm a front-end developer
-- 💻 I’ve been working with the web since 2014
-- 🔭 Learn more about me on my website: <a href="https://odinokun.com/">odinokun.com</a>
-- 📚 Download my CV here: <a href="https://odinokun.com/front_end_developer_Dmytro_Hordiienko.pdf">click me 💬</a>
+- 🤓 Front-end developer
+- 🖥️ Building for the web since 2014
+- 🔎 More about me at <a href="https://odinokun.com/">odinokun.com</a>
+- 📝 <a href="https://odinokun.com/front_end_developer_Dmytro_Hordiienko.pdf">Download my CV</a>
