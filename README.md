@@ -1,9 +1,13 @@
 ﻿<div id="header" align="center">
- <div align=center>
+ <div align=center> 
   <a href="https://git.io/typing-svg">
-   <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F0A400&center=true&width=435&lines=Hi+there!; My+name+is+Dima; I'm+a+front-end+developer!" alt="Typing SVG" />
+   <img
+     src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=28&duration=4000&pause=1000&color=52A447&center=true&width=600&lines=Wake+up%2C+Neo+...;The+Matrix+has+you+...;Follow+the+white+rabbit.;Knock%2C+knock%2C+Neo."
+      alt="Typing SVG"
+   />
   </a>
  </div>
+ 
  <a href="https://www.linkedin.com/in/dima-hordiienko/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
