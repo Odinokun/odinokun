@@ -39,4 +39,4 @@
 - 🤓 Front-end developer
 - 🖥️ Building for the web since 2014
 - 🔎 More about me at <a href="https://odinokun.com/">odinokun.com</a>
-- 📝 <a href="https://odinokun.com/front_end_developer_Dmytro_Hordiienko.pdf">Download my CV</a>
+- 📝 <a href="https://odinokun.com/front_end_engineer_Dmytro_Hordiienko.pdf">Download my CV</a>
