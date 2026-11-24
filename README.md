@@ -13,23 +13,23 @@ Open to Front-End and Full Stack roles: remote, or on site and hybrid in Bavaria
 ### Tech stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=react" width="48" alt="React" title="React" />
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js" title="Next.js" />
-<img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" title="TypeScript" />
-<img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" title="JavaScript" />
-<img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5" title="HTML5" />
-<img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS3" title="CSS3" />
-<img src="https://skillicons.dev/icons?i=sass" width="48" alt="Sass / SCSS" title="Sass / SCSS" />
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS" title="Tailwind CSS" />
+<a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" width="48" alt="React" title="React" /></a>
+<a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js" title="Next.js" /></a>
+<a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" title="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" title="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5" title="HTML5" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS3" title="CSS3" /></a>
+<a href="https://sass-lang.com"><img src="https://skillicons.dev/icons?i=sass" width="48" alt="Sass / SCSS" title="Sass / SCSS" /></a>
+<a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS" title="Tailwind CSS" /></a>
 <br />
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js" title="Node.js" />
-<img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" title="PostgreSQL" />
-<img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" title="Docker" />
-<img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" title="Git" />
-<img src="https://skillicons.dev/icons?i=githubactions" width="48" alt="GitHub Actions" title="GitHub Actions" />
-<img src="https://skillicons.dev/icons?i=figma" width="48" alt="Figma" title="Figma" />
-<img src="https://skillicons.dev/icons?i=vite" width="48" alt="Vite" title="Vite" />
-<img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Vercel" title="Vercel" />
+<a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js" title="Node.js" /></a>
+<a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" title="PostgreSQL" /></a>
+<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" title="Docker" /></a>
+<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" title="Git" /></a>
+<a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" width="48" alt="GitHub Actions" title="GitHub Actions" /></a>
+<a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" width="48" alt="Figma" title="Figma" /></a>
+<a href="https://vite.dev"><img src="https://skillicons.dev/icons?i=vite" width="48" alt="Vite" title="Vite" /></a>
+<a href="https://vercel.com"><img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Vercel" title="Vercel" /></a>
 </p>
 
 ### Contacts
