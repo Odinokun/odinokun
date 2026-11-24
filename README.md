@@ -1,42 +1,26 @@
-﻿<div id="header" align="center">
- <div align=center> 
-  <a href="https://git.io/typing-svg">
-   <img
-     src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=28&duration=4000&pause=2000&color=52A447&center=true&width=600&lines=Wake+up%2C+Neo+...;The+Matrix+has+you+...;Follow+the+white+rabbit.;Knock%2C+knock%2C+Neo."
-      alt="Typing SVG"
-   />
-  </a>
- </div>
- 
- <a href="https://www.linkedin.com/in/dima-hordiienko/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
- </a>
- <a href="mailto:dima.hordiienko.ca@gmail.com">
-     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
- </a>
- <a href="http://odinokun.com">
-     <img src="https://img.shields.io/badge/odinokun.com-121212?style=for-the-badge&logo=web-site&logoColor=white" alt="Twitter Badge"/>
- </a>
+<div align="center">
+
+# Dmytro Hordiienko
+
+**Front-End / Full Stack Engineer · React, Next.js, TypeScript**
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=28&duration=4000&pause=2000&color=52A447&center=true&width=600&lines=Wake+up%2C+Neo+...;The+Matrix+has+you+...;Follow+the+white+rabbit.;Knock%2C+knock%2C+Neo." alt="Wake up, Neo..." /></a>
+
 </div>
 
+### About me
 
-### ⚙️ Tech Stack:
-<img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=121212" />&nbsp;
-<img alt="redux" src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff" />&nbsp;
-<img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
-<img alt="typescript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
-<img alt="html5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
-<img alt="pug" src="https://img.shields.io/badge/pug-A86454.svg?&style=for-the-badge&logo=pug&logoColor=fff" />&nbsp;
-<img alt="css3" src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff" />&nbsp;
-<img alt="scss" src="https://img.shields.io/badge/scss-CF649A.svg?&style=for-the-badge&logo=sass&logoColor=fff" />&nbsp;
+Front-end developer since 2014, now working across the full stack. I build interfaces with React, Next.js and TypeScript, and in my own projects I work on the back end with Node.js, PostgreSQL and Docker. I built the UI of an NFT platform from scratch to launch and worked on one of the largest e-commerce sites in Ukraine.
 
-[//]: # (<img alt="juery" src="https://img.shields.io/badge/jquery-333333.svg?&style=for-the-badge&logo=jquery&logoColor=7ACEF4" />&nbsp;)
+Open to Front-End and Full Stack roles: remote, or on site and hybrid in Bavaria.
 
----
+### Tech stack
 
-### 👨🏻‍💻 About me
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,sass,tailwind,nodejs,postgres,docker,git,githubactions,figma,vite,vercel&theme=dark&perline=8" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS, Sass, Tailwind CSS, Node.js, PostgreSQL, Docker, Git, GitHub Actions, Figma, Vite, Vercel" />
 
-- 🤓 Front-end developer
-- 🖥️ Building for the web since 2014
-- 🔎 More about me at <a href="https://odinokun.com/">odinokun.com</a>
-- 📝 <a href="https://odinokun.com/front_end_engineer_Dmytro_Hordiienko.pdf">Download my CV</a>
+### Contacts
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dima-hordiienko)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.dmytro.hordiienko@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/odinokun)
+[![odinokun.com](https://img.shields.io/badge/odinokun.com-121212?style=for-the-badge&logo=googlechrome&logoColor=white)](https://odinokun.com)
