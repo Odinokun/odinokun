@@ -1,12 +1,8 @@
-<div align="center">
-
 # Dmytro Hordiienko
 
 **Front-End / Full Stack Engineer · React, Next.js, TypeScript**
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=28&duration=4000&pause=2000&color=52A447&center=true&width=600&lines=Wake+up%2C+Neo+...;The+Matrix+has+you+...;Follow+the+white+rabbit.;Knock%2C+knock%2C+Neo." alt="Wake up, Neo..." /></a>
-
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=18&duration=4000&pause=2000&color=52A447&width=600&height=30&vCenter=true&lines=Wake+up%2C+Neo+...;The+Matrix+has+you+...;Follow+the+white+rabbit.;Knock%2C+knock%2C+Neo." alt="Wake up, Neo..." /></a>
 
 ### About me
 
