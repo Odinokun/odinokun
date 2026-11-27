@@ -6,7 +6,7 @@
 
 ### About me
 
-Front-end developer since 2014, now working across the full stack. I build interfaces with React, Next.js and TypeScript, and in my own projects I work on the back end with Node.js, PostgreSQL and Docker. I built the UI of an NFT platform from scratch to launch and worked on one of the largest e-commerce sites in Ukraine.
+Front-end developer since 2014, now working across the full stack. I build interfaces with React, Next.js and TypeScript. On the back end, I build a personal project on Next.js, PostgreSQL and Drizzle ORM, with a background job queue, tests and CI. I built the UI of an NFT platform from scratch to launch and worked on one of the largest e-commerce sites in Ukraine.
 
 Open to Front-End and Full Stack roles: remote, or on site and hybrid in Bavaria.
 
